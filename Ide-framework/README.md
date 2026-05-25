@@ -32,10 +32,5 @@ Par défaut l'application est disponible sur :
 
 http://localhost:5173
 
-## Build de production (optionnel)
 
-```bash
-npm run build
-npm run preview
-```
 
